@@ -15,3 +15,8 @@ Apparently, the problem happens exactly when BODY content has more than 65839 ch
 
 It happens in all the java versions I tested (8, 9, 10, 14, 16) under macOS, although, the same code works in Linux.
 I think it's a bug on it's core libs, written in C for macOS.
+
+## Bug report
+> Dear Java Developer,
+> We have finished evaluating your report and have assigned it a Bug ID: [JDK-8271187](http://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8271187). The issue is visible on bugs.java.com at the following url JDK-8271187.
+> To provide more information about this issue, click [here](http://bugreport.java.com/bugreport/bug_info.do?bug_id=2DDDAD295EF793A0D6A926A6C8D21EF5).
